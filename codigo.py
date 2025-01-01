@@ -1,1 +1,1 @@
-st.title("Hola, esta es mi página web")
+st.tittle("Hola, esta es mi página web")
